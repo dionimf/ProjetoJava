@@ -15,3 +15,6 @@ Nosso trabalho se trata de um sistema de venda de produtos musicais.
 * Todas as janelas foram agrupadas na classe frmPrincipal. Deve existir uma classe para cada JInternalFrame
 * Não foram definidos os listeners
 * Não foram definidos pacotes 
+
+
+Projeto Abandonado
